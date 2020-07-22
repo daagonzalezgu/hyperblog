@@ -6,3 +6,5 @@ Erase una vez la historia de alguien.
 Ese alguien soy yo. Y yo soy David =)
 
 Él es feliz y se dejo crecer la barba y el cabello.
+
+Ahora estudia git con Platzi.
