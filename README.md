@@ -1,5 +1,5 @@
 # Hyperblog 📒
-Un blog de prueba para el [curso de git y git hub](https://platzi.com/clases/git-github/ "curso de git y git hub") con Platzi.
+Un blog de prueba para el [curso de Git y Github](https://platzi.com/clases/git-github/ "curso de git y git hub") con Platzi.
 >El curso de Git y Github es lo que me hacía falta para lanzarme a la aventura de los datos. Es mi primer curso =0.
 
 >niñita
