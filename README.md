@@ -13,4 +13,4 @@ Un blog de prueba para el [curso de Git y Github](https://platzi.com/clases/git-
 - Aprender a tener múltiples personalidad
 - A ser sarcastico en un README.md
 
-Y como nota curioso, **"Este README.md es un chiste"** Diseñado como ejemplo. Si llegas aquí** mejor ve el curso que tomarte esto en serio.**. [Ver el curso  ](https://platzi.com/clases/git-github/ "Ver el curso  ")
+Y como nota curioso, **"Este README.md es un chiste"** Diseñado como ejemplo. Si llegas aquí **mejor ve el curso que tomarte esto en serio.**. [Ver el curso  ](https://platzi.com/clases/git-github/ "Ver el curso  ")
