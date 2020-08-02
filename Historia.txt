@@ -11,6 +11,8 @@ Ahora estudia git con Platzi.
 
 Experimento 1
 
+Experimento 2
+
 Maestría 1
 
 Master 2
