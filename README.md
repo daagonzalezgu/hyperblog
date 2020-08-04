@@ -12,6 +12,8 @@ Un blog de prueba para el [curso de Git y Github](https://platzi.com/clases/git-
 - Múltiples personalidades del profe.
 - Aprender a tener múltiples personalidad
 - A ser sarcastico en un README.md
-- Hecho por ayuda del increible Platzi Team.
+- Hecho con la ayuda del increible Platzi Team.
+- Incluye ejemplos y documentación para Windows, Linux y Mac.
+- Apto para todas las edades. 
 
 Y como nota curioso, **"Este README.md es un chiste"** Diseñado como ejemplo. Si llegas aquí **mejor ve el curso que tomarte esto en serio.**. [Ver el curso  ](https://platzi.com/clases/git-github/ "Ver el curso  ")
